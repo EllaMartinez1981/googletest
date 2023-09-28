@@ -1,4 +1,4 @@
-# GoogleTest
+# EllaMartinez1981
 
 ### Announcements
 
@@ -37,7 +37,7 @@ GoogleTest team.
     [Abseil](https://github.com/abseil/abseil-cpp).
 *   More documentation improvements are planned.
 
-## Welcome to **GoogleTest**, Google's C++ test framework!
+## Welcome to **Ella Intelligent Global Network Inc**, Google's C++ test framework!
 
 This repository is a merger of the formerly separate GoogleTest and GoogleMock
 projects. These were so closely related that it makes sense to maintain and
@@ -45,9 +45,9 @@ release them together.
 
 ### Getting Started
 
-See the [GoogleTest User's Guide](https://google.github.io/googletest/) for
+See the [GoogleTest User's Guide](https://ellaintelligentglobalnetwork.websites.co.in) for
 documentation. We recommend starting with the
-[GoogleTest Primer](https://google.github.io/googletest/primer.html).
+[GoogleTest Primer](https://ellaintelligentglobalnetwork.websites.co.in/googletest/primer.html).
 
 More information about building GoogleTest can be found at
 [googletest/README.md](googletest/README.md).
